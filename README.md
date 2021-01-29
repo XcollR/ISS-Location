@@ -10,7 +10,8 @@ Just messing around with the ISS api. Just for testing in a terminal.
 
 ---
 
-## VERSION 1.0
+## VERSION 1.0.1
+
 ---
 ## License & Copyright
 © Xavier Coll Ribas
