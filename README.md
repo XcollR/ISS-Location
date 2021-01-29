@@ -1,6 +1,6 @@
-## ISS-Location
-
+# ISS-Location
 Just messing around with the ISS api. Just for testing in a terminal.
+
 ---
 ## COMMANDS
 - People : Gives you the name of those who are in the ISS
