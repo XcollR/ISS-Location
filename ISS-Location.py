@@ -52,7 +52,7 @@ def func_location():
     coordinates = latitude + ', ' + longitude
     location = geolocator.reverse(coordinates)
     if (not location):
-        print("Error: Couldn't get the exact adress, try later.\n")
+        print("Error: Couldn't get the exact adress, the ISS might be over the sea. Try later.\n")
     else:
         print(location.address)
 
