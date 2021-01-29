@@ -33,7 +33,7 @@ def func_people():
     print("These are the people currently on the ISS: \n")
     for x in dades["people"]:
         print(x["name"])
-    input("\n")
+    print("\n")
     
 #Get the position of the ISS
 def func_location():
