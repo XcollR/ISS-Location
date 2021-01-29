@@ -9,5 +9,8 @@ Just messing around with the ISS api. Just for testing in a terminal.
 - Exit : Stops the program.
 
 ---
+
+## VERSION 1.0
+---
 ## License & Copyright
 © Xavier Coll Ribas
