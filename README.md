@@ -1,6 +1,7 @@
 # ISS-Location
 Just messing around with the ISS api. Just for testing in a terminal.
 By default it's in Spanish.
+Make sure you have installed the library 'geopy' -> $ pip3 install geopy
 
 ---
 ## COMMANDS
