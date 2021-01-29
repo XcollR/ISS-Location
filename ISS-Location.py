@@ -50,7 +50,7 @@ def func_location():
     print("The exact location is:\n")
     geolocator = Nominatim(user_agent="prova_ISS")
     coordinates = latitude + ', ' + longitude
-    location = geolocator.reverse(coordinates)
+    location = geolocator.reverse(coordinates,language = 'es')
     if (not location):
         print("Error: Couldn't get the exact adress, the ISS might be over the sea. Try later.\n")
     else:
